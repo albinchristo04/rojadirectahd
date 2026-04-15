@@ -1,0 +1,678 @@
+{
+  "scraped_at": "2026-04-15T21:48:50.541665+00:00",
+  "source_url": "https://www.rojadirectahd.pl/",
+  "page_title": "ROJADIRECTA | Tarjeta Roja TV | Futbol En Vivo",
+  "total_matches": 37,
+  "matches": [
+    {
+      "time": "14:00",
+      "flag_code": "",
+      "flag_label": "Unknown",
+      "competition": "Champions League:",
+      "match_title": "Bayern Múnich vs Real Madrid",
+      "stream_links": [
+        {
+          "channel": "/Ver/Espn",
+          "url": "https://www.rojadirectahd.pl/ver/espn.php",
+          "iframes": []
+        },
+        {
+          "channel": "/Ver/Canal",
+          "url": "https://www.rojadirectahd.pl/ver/canal-87.php",
+          "iframes": []
+        },
+        {
+          "channel": "/Ver/Canal",
+          "url": "https://www.rojadirectahd.pl/ver/canal-161.php",
+          "iframes": []
+        }
+      ],
+      "iframes": []
+    },
+    {
+      "time": "14:00",
+      "flag_code": "",
+      "flag_label": "Unknown",
+      "competition": "Champions League:",
+      "match_title": "Arsenal vs Sporting CP",
+      "stream_links": [
+        {
+          "channel": "/Ver/Canal",
+          "url": "https://www.rojadirectahd.pl/ver/canal-88.php",
+          "iframes": []
+        },
+        {
+          "channel": "/Ver/Canal",
+          "url": "https://www.rojadirectahd.pl/ver/canal-162.php",
+          "iframes": []
+        },
+        {
+          "channel": "/Ver/Canal",
+          "url": "https://www.rojadirectahd.pl/ver/canal-88.php",
+          "iframes": []
+        }
+      ],
+      "iframes": []
+    },
+    {
+      "time": "15:00",
+      "flag_code": "",
+      "flag_label": "Unknown",
+      "competition": "Liga 1 Peru:",
+      "match_title": "UTC vs Sport Huancayo",
+      "stream_links": [
+        {
+          "channel": "/Ver/Liga 1 Max",
+          "url": "https://www.rojadirectahd.pl/ver/liga-1-max.php",
+          "iframes": []
+        },
+        {
+          "channel": "/Ver/Canal",
+          "url": "https://www.rojadirectahd.pl/ver/canal-84.php",
+          "iframes": []
+        }
+      ],
+      "iframes": []
+    },
+    {
+      "time": "17:00",
+      "flag_code": "",
+      "flag_label": "Unknown",
+      "competition": "Copa Libertadores:",
+      "match_title": "Cruzeiro (Bra) vs Universidad Católica (Chi)",
+      "stream_links": [
+        {
+          "channel": "/Ver/Espn 2",
+          "url": "https://www.rojadirectahd.pl/ver/espn-2.php",
+          "iframes": []
+        },
+        {
+          "channel": "/Ver/Fox Sports 3",
+          "url": "https://www.rojadirectahd.pl/ver/fox-sports-3.php",
+          "iframes": []
+        },
+        {
+          "channel": "/Ver/Espn 2 Mexico",
+          "url": "https://www.rojadirectahd.pl/ver/espn-2-mexico.php",
+          "iframes": []
+        }
+      ],
+      "iframes": []
+    },
+    {
+      "time": "17:00",
+      "flag_code": "",
+      "flag_label": "Unknown",
+      "competition": "Copa Libertadores:",
+      "match_title": "Libertad (Par) vs Rosario Central (Arg)",
+      "stream_links": [
+        {
+          "channel": "/Ver/Espn",
+          "url": "https://www.rojadirectahd.pl/ver/espn.php",
+          "iframes": []
+        },
+        {
+          "channel": "/Ver/Bein Sports",
+          "url": "https://www.rojadirectahd.pl/ver/bein-sports.php",
+          "iframes": []
+        },
+        {
+          "channel": "/Ver/Canal",
+          "url": "https://www.rojadirectahd.pl/ver/canal-87.php",
+          "iframes": []
+        }
+      ],
+      "iframes": []
+    },
+    {
+      "time": "17:00",
+      "flag_code": "",
+      "flag_label": "Unknown",
+      "competition": "Copa Sudamericana:",
+      "match_title": "Caracas (Ven) vs Independiente (Bol)",
+      "stream_links": [
+        {
+          "channel": "/Ver/Espn 3",
+          "url": "https://www.rojadirectahd.pl/ver/espn-3.php",
+          "iframes": []
+        },
+        {
+          "channel": "/Ver/Canal",
+          "url": "https://www.rojadirectahd.pl/ver/canal-89.php",
+          "iframes": []
+        }
+      ],
+      "iframes": []
+    },
+    {
+      "time": "17:00",
+      "flag_code": "",
+      "flag_label": "Unknown",
+      "competition": "Copa Sudamericana:",
+      "match_title": "Racing Club (Arg) vs Botafogo (Bra)",
+      "stream_links": [
+        {
+          "channel": "/Ver/Directv",
+          "url": "https://www.rojadirectahd.pl/ver/directv.php",
+          "iframes": []
+        },
+        {
+          "channel": "/Ver/Canal",
+          "url": "https://www.rojadirectahd.pl/ver/canal-94.php",
+          "iframes": []
+        }
+      ],
+      "iframes": []
+    },
+    {
+      "time": "17:40",
+      "flag_code": "",
+      "flag_label": "Unknown",
+      "competition": "MLB USA:",
+      "match_title": "Cincinnati Reds vs San Francisco Giants",
+      "stream_links": [
+        {
+          "channel": "/Ver/Canal",
+          "url": "https://www.rojadirectahd.pl/ver/canal-186.php",
+          "iframes": []
+        }
+      ],
+      "iframes": []
+    },
+    {
+      "time": "17:40",
+      "flag_code": "",
+      "flag_label": "Unknown",
+      "competition": "MLB USA:",
+      "match_title": "Detroit Tigers vs Kansas City Royals",
+      "stream_links": [
+        {
+          "channel": "/Ver/Canal",
+          "url": "https://www.rojadirectahd.pl/ver/canal-187.php",
+          "iframes": []
+        }
+      ],
+      "iframes": []
+    },
+    {
+      "time": "17:40",
+      "flag_code": "",
+      "flag_label": "Unknown",
+      "competition": "MLB USA:",
+      "match_title": "Philadelphia Phillies vs Chicago Cubs",
+      "stream_links": [
+        {
+          "channel": "/Ver/Canal",
+          "url": "https://www.rojadirectahd.pl/ver/canal-188.php",
+          "iframes": []
+        }
+      ],
+      "iframes": []
+    },
+    {
+      "time": "17:40",
+      "flag_code": "",
+      "flag_label": "Unknown",
+      "competition": "MLB USA:",
+      "match_title": "Pittsburgh Pirates vs Washington Nationals",
+      "stream_links": [
+        {
+          "channel": "/Ver/Canal",
+          "url": "https://www.rojadirectahd.pl/ver/canal-189.php",
+          "iframes": []
+        }
+      ],
+      "iframes": []
+    },
+    {
+      "time": "18:00",
+      "flag_code": "",
+      "flag_label": "Unknown",
+      "competition": "NBA USA:",
+      "match_title": "Philadelphia 76ers vs Orlando Magic",
+      "stream_links": [
+        {
+          "channel": "/Ver/Canal",
+          "url": "https://www.rojadirectahd.pl/ver/canal-175.php",
+          "iframes": []
+        }
+      ],
+      "iframes": []
+    },
+    {
+      "time": "18:00",
+      "flag_code": "",
+      "flag_label": "Unknown",
+      "competition": "NHL USA:",
+      "match_title": "Buffalo Sabres vs Dallas Stars",
+      "stream_links": [
+        {
+          "channel": "/Ver/Canal",
+          "url": "https://www.rojadirectahd.pl/ver/canal-177.php",
+          "iframes": []
+        }
+      ],
+      "iframes": []
+    },
+    {
+      "time": "18:00",
+      "flag_code": "",
+      "flag_label": "Unknown",
+      "competition": "NHL USA:",
+      "match_title": "Florida Panthers vs Detroit Red Wings",
+      "stream_links": [
+        {
+          "channel": "/Ver/Canal",
+          "url": "https://www.rojadirectahd.pl/ver/canal-178.php",
+          "iframes": []
+        }
+      ],
+      "iframes": []
+    },
+    {
+      "time": "18:00",
+      "flag_code": "",
+      "flag_label": "Unknown",
+      "competition": "NHL USA:",
+      "match_title": "Tampa Bay Lightning vs New York Rangers",
+      "stream_links": [
+        {
+          "channel": "/Ver/Canal",
+          "url": "https://www.rojadirectahd.pl/ver/canal-179.php",
+          "iframes": []
+        }
+      ],
+      "iframes": []
+    },
+    {
+      "time": "18:05",
+      "flag_code": "",
+      "flag_label": "Unknown",
+      "competition": "MLB USA:",
+      "match_title": "New York Yankees vs Los Angeles Angels",
+      "stream_links": [
+        {
+          "channel": "/Ver/Canal",
+          "url": "https://www.rojadirectahd.pl/ver/canal-190.php",
+          "iframes": []
+        }
+      ],
+      "iframes": []
+    },
+    {
+      "time": "18:15",
+      "flag_code": "",
+      "flag_label": "Unknown",
+      "competition": "MLB USA:",
+      "match_title": "Atlanta Braves vs Miami Marlins",
+      "stream_links": [
+        {
+          "channel": "/Ver/Canal",
+          "url": "https://www.rojadirectahd.pl/ver/canal-191.php",
+          "iframes": []
+        }
+      ],
+      "iframes": []
+    },
+    {
+      "time": "18:30",
+      "flag_code": "",
+      "flag_label": "Unknown",
+      "competition": "NHL USA:",
+      "match_title": "Ottawa Senators vs Toronto Maple Leafs",
+      "stream_links": [
+        {
+          "channel": "/Ver/Canal",
+          "url": "https://www.rojadirectahd.pl/ver/canal-180.php",
+          "iframes": []
+        }
+      ],
+      "iframes": []
+    },
+    {
+      "time": "18:40",
+      "flag_code": "",
+      "flag_label": "Unknown",
+      "competition": "MLB USA:",
+      "match_title": "Chicago White Sox vs Tampa Bay Rays",
+      "stream_links": [
+        {
+          "channel": "/Ver/Canal",
+          "url": "https://www.rojadirectahd.pl/ver/canal-192.php",
+          "iframes": []
+        }
+      ],
+      "iframes": []
+    },
+    {
+      "time": "18:40",
+      "flag_code": "",
+      "flag_label": "Unknown",
+      "competition": "MLB USA:",
+      "match_title": "Milwaukee Brewers vs Toronto Blue Jays",
+      "stream_links": [
+        {
+          "channel": "/Ver/Canal",
+          "url": "https://www.rojadirectahd.pl/ver/canal-193.php",
+          "iframes": []
+        }
+      ],
+      "iframes": []
+    },
+    {
+      "time": "19:00",
+      "flag_code": "",
+      "flag_label": "Unknown",
+      "competition": "Copa Sudamericana:",
+      "match_title": "Olimpia Asuncion (Par) vs Barracas Central (Arg)",
+      "stream_links": [
+        {
+          "channel": "/Ver/Espn 3",
+          "url": "https://www.rojadirectahd.pl/ver/espn-3.php",
+          "iframes": []
+        }
+      ],
+      "iframes": []
+    },
+    {
+      "time": "19:00",
+      "flag_code": "",
+      "flag_label": "Unknown",
+      "competition": "Copa Sudamericana:",
+      "match_title": "Olimpia (Par) vs Barracas Central (Arg)",
+      "stream_links": [
+        {
+          "channel": "/Ver/Canal",
+          "url": "https://www.rojadirectahd.pl/ver/canal-89.php",
+          "iframes": []
+        }
+      ],
+      "iframes": []
+    },
+    {
+      "time": "19:10",
+      "flag_code": "",
+      "flag_label": "Unknown",
+      "competition": "MLB USA:",
+      "match_title": "Houston Astros vs Colorado Rockies",
+      "stream_links": [
+        {
+          "channel": "/Ver/Canal",
+          "url": "https://www.rojadirectahd.pl/ver/canal-194.php",
+          "iframes": []
+        }
+      ],
+      "iframes": []
+    },
+    {
+      "time": "19:30",
+      "flag_code": "",
+      "flag_label": "Unknown",
+      "competition": "Copa Libertadores:",
+      "match_title": "Corinthians (Bra) vs Ind. Santa Fe (Col)",
+      "stream_links": [
+        {
+          "channel": "/Ver/Espn 2",
+          "url": "https://www.rojadirectahd.pl/ver/espn-2.php",
+          "iframes": []
+        },
+        {
+          "channel": "/Ver/Fox Sports 2",
+          "url": "https://www.rojadirectahd.pl/ver/fox-sports-2.php",
+          "iframes": []
+        },
+        {
+          "channel": "/Ver/Canal.Phpp",
+          "url": "https://www.rojadirectahd.pl/ver/canal-88.phpp",
+          "iframes": []
+        }
+      ],
+      "iframes": []
+    },
+    {
+      "time": "19:30",
+      "flag_code": "",
+      "flag_label": "Unknown",
+      "competition": "Copa Libertadores:",
+      "match_title": "Fluminense (Bra) vs Independiente Rivadavia (Arg)",
+      "stream_links": [
+        {
+          "channel": "/Ver/Espn 7",
+          "url": "https://www.rojadirectahd.pl/ver/espn-7.php",
+          "iframes": []
+        },
+        {
+          "channel": "/Ver/Espn 2 Mexico",
+          "url": "https://www.rojadirectahd.pl/ver/espn-2-mexico.php",
+          "iframes": []
+        },
+        {
+          "channel": "/Ver/Fox Sports",
+          "url": "https://www.rojadirectahd.pl/ver/fox-sports.php",
+          "iframes": []
+        }
+      ],
+      "iframes": []
+    },
+    {
+      "time": "19:30",
+      "flag_code": "",
+      "flag_label": "Unknown",
+      "competition": "Copa Sudamericana:",
+      "match_title": "River Plate (Arg) vs Carabobo (Ven)",
+      "stream_links": [
+        {
+          "channel": "/Ver/Espn 5",
+          "url": "https://www.rojadirectahd.pl/ver/espn-5.php",
+          "iframes": []
+        },
+        {
+          "channel": "/Ver/Bein Sports",
+          "url": "https://www.rojadirectahd.pl/ver/bein-sports.php",
+          "iframes": []
+        },
+        {
+          "channel": "/Ver/Canal",
+          "url": "https://www.rojadirectahd.pl/ver/canal-162.php",
+          "iframes": []
+        }
+      ],
+      "iframes": []
+    },
+    {
+      "time": "19:30",
+      "flag_code": "",
+      "flag_label": "Unknown",
+      "competition": "NHL USA:",
+      "match_title": "Chicago Blackhawks vs San Jose Sharks",
+      "stream_links": [
+        {
+          "channel": "/Ver/Canal",
+          "url": "https://www.rojadirectahd.pl/ver/canal-181.php",
+          "iframes": []
+        }
+      ],
+      "iframes": []
+    },
+    {
+      "time": "20:00",
+      "flag_code": "",
+      "flag_label": "Unknown",
+      "competition": "CONCACAF Champions Cup:",
+      "match_title": "Los Angeles Galaxy vs Toluca",
+      "stream_links": [
+        {
+          "channel": "/Ver/Univision Deportes",
+          "url": "https://www.rojadirectahd.pl/ver/univision-deportes.php",
+          "iframes": []
+        },
+        {
+          "channel": "/Ver/Canal",
+          "url": "https://www.rojadirectahd.pl/ver/canal-68.php",
+          "iframes": []
+        }
+      ],
+      "iframes": []
+    },
+    {
+      "time": "20:40",
+      "flag_code": "",
+      "flag_label": "Unknown",
+      "competition": "MLB USA:",
+      "match_title": "Athletics vs Texas Rangers",
+      "stream_links": [
+        {
+          "channel": "/Ver/Canal",
+          "url": "https://www.rojadirectahd.pl/ver/canal-195.php",
+          "iframes": []
+        }
+      ],
+      "iframes": []
+    },
+    {
+      "time": "20:40",
+      "flag_code": "",
+      "flag_label": "Unknown",
+      "competition": "MLB USA:",
+      "match_title": "San Diego Padres vs Seattle Mariners",
+      "stream_links": [
+        {
+          "channel": "/Ver/Canal",
+          "url": "https://www.rojadirectahd.pl/ver/canal-196.php",
+          "iframes": []
+        }
+      ],
+      "iframes": []
+    },
+    {
+      "time": "21:00",
+      "flag_code": "",
+      "flag_label": "Unknown",
+      "competition": "Copa Libertadores:",
+      "match_title": "Ind. del Valle (Ecu) vs Universidad Central (Ven)",
+      "stream_links": [
+        {
+          "channel": "/Ver/Espn 6",
+          "url": "https://www.rojadirectahd.pl/ver/espn-6.php",
+          "iframes": []
+        },
+        {
+          "channel": "/Ver/Bein Sports",
+          "url": "https://www.rojadirectahd.pl/ver/bein-sports.php",
+          "iframes": []
+        },
+        {
+          "channel": "/Ver/Fox Sports 3",
+          "url": "https://www.rojadirectahd.pl/ver/fox-sports-3.php",
+          "iframes": []
+        }
+      ],
+      "iframes": []
+    },
+    {
+      "time": "21:00",
+      "flag_code": "",
+      "flag_label": "Unknown",
+      "competition": "Copa Sudamericana:",
+      "match_title": "América de Cali (Col) vs Alianza Atl. (Per)",
+      "stream_links": [
+        {
+          "channel": "/Ver/Espn",
+          "url": "https://www.rojadirectahd.pl/ver/espn.php",
+          "iframes": []
+        },
+        {
+          "channel": "/Ver/Canal",
+          "url": "https://www.rojadirectahd.pl/ver/canal-87.php",
+          "iframes": []
+        }
+      ],
+      "iframes": []
+    },
+    {
+      "time": "21:00",
+      "flag_code": "",
+      "flag_label": "Unknown",
+      "competition": "Copa Sudamericana:",
+      "match_title": "Millonarios (Col) vs Boston River (Uru)",
+      "stream_links": [
+        {
+          "channel": "/Ver/Directv",
+          "url": "https://www.rojadirectahd.pl/ver/directv.php",
+          "iframes": []
+        },
+        {
+          "channel": "/Ver/Canal",
+          "url": "https://www.rojadirectahd.pl/ver/canal-94.php",
+          "iframes": []
+        }
+      ],
+      "iframes": []
+    },
+    {
+      "time": "21:00",
+      "flag_code": "",
+      "flag_label": "Unknown",
+      "competition": "NBA USA:",
+      "match_title": "Los Angeles Clippers vs Golden State Warriors",
+      "stream_links": [
+        {
+          "channel": "/Ver/Canal",
+          "url": "https://www.rojadirectahd.pl/ver/canal-176.php",
+          "iframes": []
+        }
+      ],
+      "iframes": []
+    },
+    {
+      "time": "21:00",
+      "flag_code": "",
+      "flag_label": "Unknown",
+      "competition": "NHL USA:",
+      "match_title": "Vegas Golden Knights vs Seattle Kraken",
+      "stream_links": [
+        {
+          "channel": "/Ver/Canal",
+          "url": "https://www.rojadirectahd.pl/ver/canal-182.php",
+          "iframes": []
+        }
+      ],
+      "iframes": []
+    },
+    {
+      "time": "21:10",
+      "flag_code": "",
+      "flag_label": "Unknown",
+      "competition": "MLB USA:",
+      "match_title": "Los Angeles Dodgers vs New York Mets",
+      "stream_links": [
+        {
+          "channel": "/Ver/Espn Mexico",
+          "url": "https://www.rojadirectahd.pl/ver/espn-mexico.php",
+          "iframes": []
+        }
+      ],
+      "iframes": []
+    },
+    {
+      "time": "22:30",
+      "flag_code": "",
+      "flag_label": "Unknown",
+      "competition": "CONCACAF Champions Cup:",
+      "match_title": "Seattle Sounders vs Tigres UANL",
+      "stream_links": [
+        {
+          "channel": "/Ver/Univision Deportes",
+          "url": "https://www.rojadirectahd.pl/ver/univision-deportes.php",
+          "iframes": []
+        },
+        {
+          "channel": "/Ver/Canal",
+          "url": "https://www.rojadirectahd.pl/ver/canal-68.php",
+          "iframes": []
+        }
+      ],
+      "iframes": []
+    }
+  ]
+}
